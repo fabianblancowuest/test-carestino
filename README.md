@@ -8,6 +8,6 @@
   <li>CSS</li>
 </ul>
 
-<a href="https://test-carestino.netlify.app/">
+<a href="https://test-carestino.netlify.app/">Enlace a la app</a>
 
 <img src="captura.png" alt="Captura de pantalla">
