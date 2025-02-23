@@ -1,9 +1,10 @@
-<h1>Prueba técnica para Carestino</h1>
+<h1>Prueba Técnica para Carestino</h1>
 
-<h2>Tecnologías utilizadas</h2>
+<h2>Tecnología utilizadas</h2>
+
 <ul>
-  <li>HTML</li>
   <li>Vanilla JavaScript</li>
+  <li>HTML</li>
   <li>CSS</li>
 </ul>
 

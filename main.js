@@ -25,7 +25,7 @@ function createGrid() {
 		});
 
 		// Pintar arrastrando
-		celda.addEventListener("mouseover", (e) => {
+		celda.addEventListener("mouseover", () => {
 			if (seEstaDibujando) toggleCell(celda);
 		});
 
